@@ -1,0 +1,42 @@
+sign-in:
+  url: http://117.50.24.216:10590/JettechHR/hrdAppSysn/synchronizeSaveSignInData
+sign-out:
+  url: http://117.50.24.216:10590/JettechHR/hrdAppSysn/synchronizeSaveSignOutData
+sign:
+  parameter:
+    loginUserNumber:
+      - 230321199412305014
+#      - 500102199102034533
+#      - 140721198912070085
+    phoneNumber:
+      - 898602A0020242824412
+#      - (null)
+#      - +8613121030550
+    deviceId:
+      - 861997044618630
+#      - AFD53E85-F6D9-415A-9FB0-50DD9123D5D3
+#      - 867960030137761
+    deviceType:
+      - MI 8
+#      - iPhone12,3
+#      - VTR-AL00
+    address:
+      - 湖南省长沙市开福区芙蓉中路431号靠近中信银行(芙蓉支行)
+#      - 湖南省长沙市开福区芙蓉中路431号靠近中信银行(芙蓉支行)
+#      - 湖南省长沙市开福区芙蓉中路431号靠近中信银行(芙蓉支行)
+    longitude:
+      - 112.98671
+#      - 112.98671
+#      - 112.98671
+    latitude:
+      - 28.206929
+#      - 28.206929
+#      - 28.206929
+    expatriateFlag:
+      - true
+#      - true
+#      - true
+    expatriateComment:
+      - 日常外派
+#      - 外派打卡
+#      - 项目外派

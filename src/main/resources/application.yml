@@ -1,0 +1,24 @@
+sign-in:
+  url: http://117.50.24.216:10590/JettechHR/hrdAppSysn/synchronizeSaveSignInData
+sign-out:
+  url: http://117.50.24.216:10590/JettechHR/hrdAppSysn/synchronizeSaveSignOutData
+sign:
+  parameter:
+    loginUserNumber:
+      - 230321199412305014
+    phoneNumber:
+      - 898602A0020242824412
+    deviceId:
+      - 861997044618630
+    deviceType:
+      - MI 8
+    address:
+      - 湖南省长沙市开福区芙蓉中路431号靠近中信银行(芙蓉支行)
+    longitude:
+      - 112.98671
+    latitude:
+      - 28.206929
+    expatriateFlag:
+      - true
+    expatriateComment:
+      - 日常外派
